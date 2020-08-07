@@ -6,7 +6,7 @@
 
 body {
     font-size: 16px;
-    font-family: cursive;
+    font-family: 'Courier New', Courier, monospace;
     background-color: #d8cfcf;
     padding: 50px;
 }
@@ -157,4 +157,7 @@ nav {
         border-radius: 200px;
         margin: 0px auto 10px;
     }
+    
+    .profile button {
+        padding: 10px;
 }
